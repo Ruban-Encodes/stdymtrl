@@ -13,6 +13,10 @@ h5{
     display: none;
 }
 
+body::-webkit-scrollbar{
+    display: none;
+}
+
 
 /* ------------------header------------------- */
 
